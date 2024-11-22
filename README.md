@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamy101
-- 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning Mobile Application Development
+- 👀 I’m interested in Frontend Development, Backend Development, and UI/UX Design
+- 🌱 I mainly use Flutter, Go, Javascript, and MySQL
 
 <!---
 williamy101/williamy101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
